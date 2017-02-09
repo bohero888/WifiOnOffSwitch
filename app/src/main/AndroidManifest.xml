@@ -7,7 +7,7 @@
 
     <!--Telling the device we are allowed to access the state of the wifi meaning
         is it on or off, is it connected to a network, is it not connected  -->
-    <uses-permission android:name="android.permissions.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <!--Change the wifi state: disable wifi, enable, not connect to a network, connect
         to a network -->
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
